@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="accessibility_service_description">Включает фонарик тройным нажатием кнопки громкости и выключает четырьмя. Работает на заблокированном экране.</string>
+</resources>
