@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.flashlight'
+    namespace 'com.sergflash.light'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.flashlight"
+        applicationId "com.sergflash.light"
         minSdk 26
         targetSdk 34
         versionCode 1

@@ -1,4 +1,4 @@
-package com.example.flashlight
+package com.sergflash.light
 
 import android.accessibilityservice.AccessibilityService
 import android.accessibilityservice.AccessibilityServiceInfo

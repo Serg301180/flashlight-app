@@ -1,4 +1,4 @@
-package com.example.flashlight
+package com.sergflash.light
 
 import android.content.BroadcastReceiver
 import android.content.Context

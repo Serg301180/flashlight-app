@@ -1,4 +1,4 @@
-package com.example.flashlight
+package com.sergflash.light
 
 object FlashlightServiceHolder {
     var service: FlashlightAccessibilityService? = null
